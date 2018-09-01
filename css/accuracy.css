@@ -1,0 +1,22 @@
+*{
+    font-family: Roboto;
+}
+
+.no-margin{
+    margin: 0;
+}
+.mt-50{
+    margin-top: 50px;
+}
+body{
+    color: #000;
+    background: #f5f5f5;
+}
+header{
+    background: #fff;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+}
+h1{
+font-weight: bold !important;
+}
